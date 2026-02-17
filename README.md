@@ -69,6 +69,7 @@ Este documento contiene la resolución detallada de la evaluación diagnóstica 
 ### 10. Aceleración en Plano Inclinado (Sin Fricción)
 * **Respuesta:** **C** (Únicamente el ángulo de inclinación y la gravedad).
 * **Explicación:** La fórmula es $a = g \cdot \sin(\theta)$. Nota que la masa ($m$) desaparece de la ecuación, por lo que no influye en la aceleración.
+![Banner del Proyecto](teléfono/pitures/1771359647651.png)
 
 
 

@@ -71,3 +71,4 @@ Este documento contiene la resolución detallada de la evaluación diagnóstica 
 * **Explicación:** La fórmula es $a = g \cdot \sin(\theta)$. Nota que la masa ($m$) desaparece de la ecuación, por lo que no influye en la aceleración.
 
 
+
